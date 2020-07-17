@@ -1,0 +1,36 @@
+num_hid_gcn=256
+num_hid_gru=8
+num_embedded_features=16
+gcn_dropout=0.4
+gru_dropout=0.4
+best_val_loss=-0.0032908700518088484 at epoch 2num_hid_gcn=64
+num_hid_gru=8
+num_embedded_features=256
+gcn_dropout=0.4
+gru_dropout=0.4
+best_val_loss=-0.0027980049533487712 at epoch 0num_hid_gcn=64
+num_hid_gru=8
+num_embedded_features=256
+gcn_dropout=0.4
+gru_dropout=0.4
+best_val_loss=-0.0031201677806014533 at epoch 2num_hid_gcn=64
+num_hid_gru=8
+num_embedded_features=256
+gcn_dropout=0.4
+gru_dropout=0.4
+best_val_loss=-0.003152868213655066 at epoch 12num_hid_gcn=64
+num_hid_gru=8
+num_embedded_features=256
+gcn_dropout=0.4
+gru_dropout=0.8
+best_val_loss=-0.0032467028516982807 at epoch 1num_hid_gcn=64
+num_hid_gru=16
+num_embedded_features=256
+gcn_dropout=0.4
+gru_dropout=0.8
+best_val_loss=-0.0032867779501698766 at epoch 14num_hid_gcn=64
+num_hid_gru=64
+num_embedded_features=256
+gcn_dropout=0.8
+gru_dropout=0.8
+best_val_loss=-0.0033057017965141063 at epoch 11
